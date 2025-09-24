@@ -17,11 +17,6 @@ learning-portfolio/
 ├─ README.md
 ├─ tracker.csv
 ├─ projects/
-│ ├─ tea-shop/
-│ └─ todo-app/
-├─ notes/
-│ ├─ html/
-│ ├─ css/
-│ └─ js/
-├─ daily/
-└─ assets/
+## 🚀 Проекты
+- [Первый HTML проект](projects/index.html)
+
